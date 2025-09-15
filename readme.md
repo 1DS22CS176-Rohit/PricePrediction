@@ -1,1 +1,1 @@
-python environment -> conda -> (myenv)
+Deploying ML Model on Azure in docker container
